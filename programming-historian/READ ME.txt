@@ -1,0 +1,10 @@
+READ ME for programming-historian.zip
+
+11 June 2012. Adam Crymble.
+
+
+This zipped directory contains all the files and programs needed to continue working through the Programming Historian 2 after completing the lesson:
+
+ÒWrapping output in HTMLÓ for Mac and Linux
+
+http://chnm.gmu.edu/press/programminghistorian/wrapping-output-in-html
